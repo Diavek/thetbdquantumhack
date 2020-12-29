@@ -17,7 +17,7 @@ storyConfigStart,storyConfig,40,40,50,This is the year 2020. ,"According to IBM,
 	""highlight"": """",
 	""svgFileName"": null
 }",,
-,storyConfig,40,40,50,2038?,"A simple linear Regression on these four yearly Qubit predictions till 2023 tells us that by 2038, we should see about 6,168 qubits - which would break RSA algorithm encryption. f we're extremely lucky (this is the best case scenario keeping in mind that the technological advancements have been exponential and not linear till date)",,,"{
+,storyConfig,40,40,50,2038?,"A simple linear Regression on these four yearly Qubit predictions till 2023 tells us that by 2038, we should see about 6,168 qubits - which would break RSA algorithm encryption. (2038 is a best case scenario under the assumption that technological advancements are extremely linear)",,,"{
 	""year"": 2038,
 	""containerStyle"": {
 		""opacity"": 1
@@ -26,7 +26,7 @@ storyConfigStart,storyConfig,40,40,50,This is the year 2020. ,"According to IBM,
 	""highlight"": """",
 	""svgFileName"": null
 }",,
-,storyConfig,40,40,50,Somewhere between 2025 - 2038,But this is the best case scenario. We know according to Moore's law that technological advancements are anything but linear.,,,"{
+,storyConfig,40,40,50,Anywhere between 2025 and 2038?,Moore's law on technological advancements would not give us time till 2038. Are we ready for a quantum cyber threat by 2025? Are we prepared even if we are spared till 2038?,,,"{
 	""year"": 2038,
 	""containerStyle"": {
 		""opacity"": 1
