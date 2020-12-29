@@ -1,0 +1,89 @@
+narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragraphText,hRef,hRefText,trigger,graphTitle,graphCaption
+storyConfigStart,storyConfig,40,40,50,This is the year 2020. ,"According to IBM, we have 65 Qubits as of September 2020",,,"{
+	""year"": 2020,
+	""containerStyle"": {
+		""opacity"": 1
+	},
+	""snippet"": null,
+	""highlight"": """",
+	""svgFileName"": null
+}",,
+,storyConfig,40,40,50,"That means, by the year 2023:","These are the 1,121 Qubits predicted by 2023 ",,,"{
+	""year"": 2023,
+	""containerStyle"": {
+		""opacity"": 1
+	},
+	""snippet"": null,
+	""highlight"": """",
+	""svgFileName"": null
+}",,
+,storyConfig,40,40,50,2038?,"A simple linear Regression on these four yearly Qubit predictions till 2023 tells us that by 2038, we should see about 6,168 qubits - which would break RSA algorithm encryption. f we're extremely lucky (this is the best case scenario keeping in mind that the technological advancements have been exponential and not linear till date)",,,"{
+	""year"": 2038,
+	""containerStyle"": {
+		""opacity"": 1
+	},
+	""snippet"": null,
+	""highlight"": """",
+	""svgFileName"": null
+}",,
+,storyConfig,40,40,50,Somewhere between 2025 - 2038,But this is the best case scenario. We know according to Moore's law that technological advancements are anything but linear.,,,"{
+	""year"": 2038,
+	""containerStyle"": {
+		""opacity"": 1
+	},
+	""snippet"": null,
+	""highlight"": """",
+	""svgFileName"": null
+}",,
+,storyConfig,40,40,50,"This is what the entire linear extrapolation looks like all the way till 2043 (almost 8,000 Qubits)","(if you're using the spacebar/arrow keys, try using your mousewheel to scroll through this to see the chart smoothly update)",,,"{
+	""year"": null,
+	""yearDomain"": [2020, 2043],
+	""svgFileName"": null,
+	""snippet"": null
+}",Qubits by time (a very linear prediction),
+sectionConfigStart,sectionConfig,40,40,50,Small-Scale Information Types at Risk,,,,"{
+	""svgFileName"": ""pii""
+}",,
+,sectionConfig,40,40,50,,"1)	Emails<br>
+2)	Credit card numbers<br>
+3)	Medical history or genetic information<br>
+4)	Juvenile criminal records<br>
+5)	Executive communications<br>
+6)	Drug trial data<br>
+7)	Intellectual property<br>
+8)	Information transmitted between cloud data centers<br>
+9)	State Department cables<br>
+10)	Communications between Department of Energy laboratories<br>
+11)	Information on facilities&#8217; physical security protocols<br>",,,"{
+	""svgFileName"": ""pii""
+}",,
+fetchNarrationStart,fetchNarration,40,40,50,Large-Scale IoT Risks to consider,,,,"{
+	""svgFileName"": ""industry""
+}",,
+,fetchNarration,40,40,50,Encryption is difficult to do on an IoT device. The encryption on a smartphone takes 3MB to encrypt a signal message and then decrypt on the back-end. It takes 14 rounds of encryption to get that done.,"If you have a small IoT device (eg. A thermostat or temperature sensor), those devices have a maximum of 100kb (a class 0 device) in total operating capacity. It<q>'<q>s very unlikely that encryption can be done on a small IoT device. (3)",,,"{
+	""svgFileName"": ""industry""
+}",,
+,fetchNarration,40,40,80,21st October 2016,"The DDOS attack on Dyn on 21st October 2016 took down sites such as Twitter, Netflix, Reddit and many others across the US and Europe. The &quot;Mirai botnet&quot; responsible was made up of IoT devices such as digital cameras and DVR players",,,"{
+	""svgFileName"": ""hacker""
+}",,
+outline,fetchNarration,40,40,80,Why be concerned today if Quantum Computing isn&#8217;t here yet?,,,,"{
+	""svgFileName"": ""1""
+}",,
+,fetchNarration,40,40,80,"&quot;<b>Catch now, exploit later</b>&quot; - your data is already being hacked, but in the future. Did you know that?",Bad actors (entities who act to breach an IT system with motivations such as theft) can steal your encrypted data and store it away till when Quantum Computing is around. Then they can easily decrypt that data. ,,,"{
+	""svgFileName"": ""2""
+}",,
+,fetchNarration,40,40,80,"Once a form of protection against Quantum hacking is produced, it can take years to standardize solutions and even take it to market",,,,"{
+	""svgFileName"": ""3""
+}",,
+fetchDataStart,fetchData,40,40,50,The Solution,,,,"{
+	""svgFileName"": ""4""
+}",,
+,fetchData,40,40,50,Reach out to encryption and data security service providers that are aware of the need to future-proof devices in the context of Quantum Computing.,"a) Consider organizations such as <a ref=""www.agilepq.com"">AgilePQ (Agile Post Quantum) </a> that approach this threat with modern encryption technology across all IoT devices. ",,,"{
+	""svgFileName"": ""5""
+}",,
+,fetchData,40,40,50,Stay informed on current research and policy.,,,,"{
+	""svgFileName"": ""6""
+}",,
+renderGraphStart,renderGraph,40,40,50,Reference List,"1) The Internet Society: Does Quantum Computing Put Our Digital Security At Risk <a href=""https://www.internetsociety.org/resources/doc/2020/does-quantum-computing-put-our-digital-security-at-risk/""> https://www.internetsociety.org/resources/doc/2020/does-quantum-computing-put-our-digital-security-at-risk/ </a><br>2) Tech Republic: 6 Experts Share Quantum Computing Predictions for 2021 <a ref=""https://www.techrepublic.com/article/6-experts-share-quantum-computing-predictions-for-2021/""> https://www.techrepublic.com/article/6-experts-share-quantum-computing-predictions-for-2021/</a><br>3) Security in an IoT post quantum world - Paul Clayson - Episode 145 (YouTube Video) <a ref=""https://www.youtube.com/watch?v=nxNvpap0jIY""> https://www.youtube.com/watch?v=nxNvpap0jIY </a><br>4) NIST quantum encryption algorithms standards validation and selection process. <a href=""https://csrc.nist.gov/Projects/post-quantum-cryptography/Post-Quantum-Cryptography-Standardization"">https://csrc.nist.gov/Projects/post-quantum-cryptography/Post-Quantum-Cryptography-Standardization </a><br>5) &quot;Guideline for Using Cryptographic Standards in the Federal Government: Cryptographic Mechanisms&quot; Revision 1, March 2020 <a href=""https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175Br1.pdf"">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175Br1.pdf</a><br>6) NIST draft guidance &quot;Getting Ready for Post-Quantum Cryptography&quot; <a href=""https://csrc.nist.gov/News/2020/draft-nist-cswp-on-getting-ready-for-pqc""> https://csrc.nist.gov/News/2020/draft-nist-cswp-on-getting-ready-for-pqc </a>",,,"{
+	""svgFileName"": ""7""
+}",,

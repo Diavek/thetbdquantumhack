@@ -1,0 +1,18 @@
+narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragraphText,hRef,hRefText,trigger,graphTitle,graphCaption
+introStart,intro,40,40,50,Let<q>'<q>s have a look at what Quantum Computing is and why it is important,,,,,,
+,intro,40,40,50,<q>(A) <q>Extraordinary computing speed?,"Our computers today use <q>""<q>classical bits<q>""<q> that represent either 0 and 1. Quantum computers use a <q>""<q>qubit<q>""<q>(quantum bit) that can be  both  0 and 1 at the same time. Therefore, unlike classical computing, quantum computing solves problems by trying all possible solutions at the same time.",,,"{
+	""svgFileName"": ""slide2""
+}",,
+,intro,40,40,50,<q>(B) <q>The two kinds of encryption today,"<b>Symmetric Encryption</b> <q>:<q> Key-locked (password protected) information that can be unlocked by a similar key. An exhaustive attack with trying all the possible keys will take an impractical amount of time and energy using a classical computer. However, quantum computing can try all the possible keys simultaneously and is said to reduce the level of difficulty of the problem to its square root. ",,,"{
+	""svgFileName"": ""slide3""
+}",,
+,intro,40,40,50,,<b>Asymmetric Encryption</b> <q>:<q> Uses one key to lock the data and a different key to unlock it. In this case you are trying to solve a mathematical problem rather than guess the right key. ,,,"{
+	""svgFileName"": ""slide4""
+}",,
+,intro,40,40,50,<q>(C) <q>When will Quantum Computing become a threat?,"Experts in the field expect to see Quantum Computers by 2030 but, according to Bob Sutor, vice president of IBM Quantum Strategy and Ecosystem, we can anticipate it arriving in just a few years.  He says that IBM made a 65-qubit quantum computing system available on the cloud in September 2020 and released its quantum hardware roadmap. The roadmap foresees a 127-qubit system in 2021, a 433-qubit system in 2022, and a 1,121-qubit system in 2023",,,,,
+,intro,40,40,50,,Lets plot that on a graph and extrapolate it a few years,,,"{
+	""svgFileName"": ""slide5""
+}",,
+,intro,40,40,50,,"As per the table on the right taken from the Internet Society, some forms of symmetric encryption are already at risk and with only 6,146 qubits required, we may see RSA algorithm fall prey to Quantum hacking as early as 2025.",,,"{
+	""svgFileName"": ""slide5""
+}",,

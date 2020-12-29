@@ -1,0 +1,10 @@
+narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragraphText,hRef,hRefText,trigger,graphTitle,graphCaption
+builtInTriggersStart,builtInTriggers,40,40,50,Thank you for reading!,"Brought to you by the <a href=""https://dataethics4all.org/"" >DataEthics4All </a> data journalism team.",,,"{
+	""svgFileName"": ""8""
+}",,
+,centered-narration,50,0,50,,"Illustrations in this story were modified from <a href=""https://undraw.co/illustrations""
+                  target=""_blank"">unDraw.co</a>.  ScrollyTeller was created at the
+                    <a href=""http://www.healthdata.org/results/data-visualizations"">Institute for
+                        Health Metrics and Evaluation</a> and has been used to tell visual stories about
+                    <a href=""https://vizhub.healthdata.org/child-mortality"">Child Mortality</a> and
+                    Tobacco Control (coming soon).",,,,,
